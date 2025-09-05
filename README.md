@@ -55,6 +55,18 @@ Pricing is calculated **per km** and based on the time spent in the ride.
 
 ---
 
+## 📖 API Documentation  
+
+You can explore and test the API using the Postman documentation below:  
+
+👉 [View Postman API Documentation](https://meshena-websocket.postman.co/workspace/My-Workspace~45dbe371-49da-4586-89cc-9c383b3e3abb/example/37449019-801b35e4-746f-4cea-bdf8-8d52cc31043a?action=share&creator=37449019&ctx=documentation)
+
+
+
+
+
+
+
 ## ⭐ Future Enhancements  
 - Advanced loyalty system for frequent riders.  
 - Real-time driver heatmap & surge pricing.  
