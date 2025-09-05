@@ -1,5 +1,5 @@
-🚖 ASFALT Ride-Hailing Platform
-📌 Project Overview
+#🚖 ASFALT Ride-Hailing Platform
+#📌 Project Overview
 
 ASFALT is a ride-hailing platform similar to Uber, designed to provide both riders and drivers with flexibility, transparency, and freedom of choice.
 
@@ -7,7 +7,7 @@ The system allows riders to book trips from pickup to destination, calculate tri
 
 The platform also considers personal preferences (e.g., no pets, no smokers) to ensure maximum comfort and compatibility between riders and drivers.
 
-🚘 Car Types & Pricing
+#🚘 Car Types & Pricing
 
 The platform offers multiple car categories with different rates:
 
@@ -24,9 +24,9 @@ ID	Car Type	Hourly Rate	First 15 Min	Second 15 Min	Above 30 Min
 
 Pricing is calculated per km and based on the time spent in the ride.
 
-🧑‍✈️ Driver Features
+#🧑‍✈️ Driver Features
 
-Calculate earnings before starting trips.
+##Calculate earnings before starting trips.
 
 Example: A driver with 3 trips could earn 500+ depending on car type.
 
@@ -38,7 +38,7 @@ Competitions: Drivers with the most daily trips receive rewards.
 
 Drivers are matched with the nearest riders to optimize time.
 
-🚗 Rider Features
+#🚗 Rider Features
 
 Enter pickup and drop-off location to get an instant fare estimate.
 
@@ -50,7 +50,7 @@ Rate drivers after each trip and mark favorites.
 
 Always know the price upfront before the trip begins.
 
-🎯 Goals of the Platform
+#🎯 Goals of the Platform
 
 Freedom for Drivers – fair commission (10%) and bonuses for top performance.
 
@@ -60,7 +60,7 @@ Trust & Transparency – price and earnings are clear before the trip.
 
 Competition & Rewards – drivers motivated to serve more trips daily.
 
-⭐ Future Enhancements
+#⭐ Future Enhancements
 
 Advanced loyalty system for frequent riders.
 
